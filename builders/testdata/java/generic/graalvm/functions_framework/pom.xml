@@ -28,7 +28,7 @@
     <dependency>
       <groupId>com.google.escapevelocity</groupId>
       <artifactId>escapevelocity</artifactId>
-      <version>0.9.1</version>
+      <version>1.1</version>
     </dependency>
   </dependencies>
 </project>
