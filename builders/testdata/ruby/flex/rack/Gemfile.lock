@@ -3,7 +3,7 @@ GEM
   specs:
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
-    rack (2.0.6)
+    rack (2.2.9)
     ruby2_keywords (0.0.5)
     webrick (1.7.0)
 
@@ -12,7 +12,7 @@ PLATFORMS
 
 DEPENDENCIES
   mustermann (~> 1.1)
-  rack (~> 2.0)
+  rack (~> 2.0, >= 2.0.9.1)
   webrick (~> 1.7)
 
 BUNDLED WITH
